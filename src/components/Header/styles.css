@@ -1,0 +1,18 @@
+.header{
+    display:flex;
+    justify-content: space-between;
+    margin: 10px 0;
+}
+
+.headerMenu a{
+    display: inline-block;
+    margin: 0 10px;
+    text-decoration: none;
+    color:rgb(56, 55, 55);
+    font-size: 30px;
+    letter-spacing: 1px;
+}
+
+.headerMenu a:hover{
+    color: aliceblue;
+}
