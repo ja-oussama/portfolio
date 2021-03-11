@@ -1,4 +1,5 @@
 import React from 'react';
+import Logo from '../Logo';
 import Card from '../UI/Card';
 import './styles.css';
 
@@ -6,7 +7,7 @@ const Hero=(props)=>{
     return(
         <div>
             <Card>
-                oussama ja
+                <Logo/>
             </Card>
         </div>
     );

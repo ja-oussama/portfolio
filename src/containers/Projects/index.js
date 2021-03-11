@@ -1,12 +1,13 @@
 import React from 'react';
 import './styles.css';
 
-const Home = (props) =>{
-    return(
+
+const Projects = (props) =>{
+    return (
         <div>
-            Home
+            Projects
         </div>
     );
 }
 
-export default Home;
+export default Projects;

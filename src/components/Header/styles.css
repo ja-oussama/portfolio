@@ -9,10 +9,15 @@
     margin: 0 10px;
     text-decoration: none;
     color:rgb(56, 55, 55);
-    font-size: 30px;
+    font-size: 20px;
     letter-spacing: 1px;
 }
 
 .headerMenu a:hover{
     color: aliceblue;
+}
+
+.search{
+    display: flex;
+    margin: 0 50px;
 }
